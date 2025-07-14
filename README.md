@@ -1,2 +1,2 @@
-# aleckRacist
+# Yearbook Committee
 Automation for Full Name and User Emails
