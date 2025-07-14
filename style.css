@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 700px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+h1 {
+    text-align: center;
+    margin-bottom: 24px;
+}
+#fileInput {
+    display: block;
+    margin: 0 auto 16px auto;
+}
+#downloadBtn {
+    display: block;
+    margin: 0 auto 24px auto;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+#resultTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+}
+#resultTable th, #resultTable td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+#resultTable th {
+    background: #f0f0f0;
+} 
